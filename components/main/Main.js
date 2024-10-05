@@ -32,6 +32,7 @@ const Main = () => {
                 setIsOpen
             }} />
             <About />
+            <Video />
             <Project {...{
                 openModal
             }}/>
